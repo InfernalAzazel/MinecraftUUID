@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b5m+dWr7bl/8eN8zRqv/ubQ6e+tLhswoEgepwYgzo3SzyTnl7V7GudNKI5/iV8cXAorwhtkut3lKQzGMxPYeKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\code\\MinecraftUUID\\MinecraftUUID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\code\MinecraftUUID\obj\Release\net48\MinecraftUUID.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\code\MinecraftUUID\obj\Release\net48\MinecraftUUID.Form1.resources
+C:\Users\Administrator\Desktop\code\MinecraftUUID\obj\Release\net48\MinecraftUUID.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\code\MinecraftUUID\obj\Release\net48\MinecraftUUID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\code\MinecraftUUID\obj\Release\net48\MinecraftUUID.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\code\MinecraftUUID\obj\Release\net48\MinecraftUUID.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\code\MinecraftUUID\obj\Release\net48\MinecraftUUID.csproj.CoreCompileInputs.cache

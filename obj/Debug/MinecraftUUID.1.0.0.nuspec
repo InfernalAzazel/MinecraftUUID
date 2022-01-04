@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MinecraftUUID</id>
+    <version>1.0.0</version>
+    <authors>MinecraftUUID</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Administrator\Desktop\code\MinecraftUUID\bin\Debug\net6.0-windows\MinecraftUUID.runtimeconfig.json" target="lib\net6.0-windows7.0\MinecraftUUID.runtimeconfig.json" />
+    <file src="C:\Users\Administrator\Desktop\code\MinecraftUUID\bin\Debug\net6.0-windows\MinecraftUUID.dll" target="lib\net6.0-windows7.0\MinecraftUUID.dll" />
+  </files>
+</package>
